@@ -1,1 +1,1 @@
-https://fast-taiga-69540.herokuapp.com/api/persons
+https://fast-taiga-69540.herokuapp.com
